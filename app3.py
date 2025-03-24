@@ -26,7 +26,7 @@ install_packages()
 # Load the dataset
 @st.cache_data
 def load_data():
-    file_path = "uber-eats-deliveries.csv"  # Ensure this file is uploaded to GitHub
+    file_path = "amazon.csv"  # Ensure this file is uploaded to GitHub
 
     if not os.path.exists(file_path):
         st.error("⚠️ File not found! Please upload 'uber-eats-deliveries.csv' to your GitHub repository.")
