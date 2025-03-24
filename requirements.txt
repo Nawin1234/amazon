@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy  # No specific version to avoid conflicts
+matplotlib
+seaborn
+mlxtend
+scikit-learn
+scipy
+requests
+joblib
+plotly
+pyarrow
