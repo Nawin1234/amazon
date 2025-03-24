@@ -10,3 +10,4 @@ requests
 joblib
 plotly
 pyarrow
+wordcloud
